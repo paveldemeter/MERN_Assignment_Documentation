@@ -28,7 +28,9 @@ The MERN tech stack will be incorporated into this project, the four open source
 
 ## R4	User Stories	
 
-![Trello Board](docs/Trello_Board_MERN_project.png)
+![Trello Board](docs/Trello_Board_MERN_Project.png)
+
+**Add adjustments after conversation with Taylor**
 
 ## R5	Wireframes for multiple standard screen sizes, created using industry standard software	
 

@@ -4,6 +4,10 @@
 ## R1 Description of your website, including:
 
 ### Purpose
+
+The purpose is to create an interactive webiste for Raw Haricuts 
+
+
 #### Functionality / features
 
 
@@ -11,7 +15,7 @@
 
 #### Target audience
 
-The target audience will be for males looking for an occaional classic, modern, or specialty styled haircut. 
+The target audience is males living in the Gold Coast metro area who are looking for an occaional classic, modern, or specialty styled haircut. 
 
 #### Tech stack
 
@@ -73,3 +77,8 @@ XXXXXXXXX ***Add adjustments after conversation with Taylor*** XXXXXXXXXXXXX
 
 ![Trello Board](docs/Trello_Board_MERN_Project_2.png)
 *14/1/20*
+
+## R7 Other
+
+[Resources](https://docs.google.com/document/d/1qCIVq4t38VcJ9CifgAuvjDxCgSFbA2Dvnt6x0-GKwyY/edit)
+

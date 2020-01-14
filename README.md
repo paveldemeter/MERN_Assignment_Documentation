@@ -69,3 +69,7 @@ XXXXXXXXX ***Add adjustments after conversation with Taylor*** XXXXXXXXXXXXX
 ## R6	Screenshots of your Trello board throughout the duration of the project	
 
 ![Trello Board](docs/Trello_Board_MERN_Project.png)
+*13/1/20*
+
+![Trello Board](docs/Trello_Board_MERN_Project_2.png)
+*14/1/20*

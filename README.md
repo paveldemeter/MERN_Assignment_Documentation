@@ -5,17 +5,18 @@
 
 ### Purpose
 
-The purpose is to create an interactive webiste for Raw Haricuts 
-
+The purpose of this project is to create an website for Raw Haricuts that will increase business exposure and revenue. 
 
 #### Functionality / features
 
+The features of the site are intended to showcase the feel for the shop, inform customers on hours and pricing, allow customers to book appointments and check availability, and showcase a gallery of photos of haircut types and examples. 
 
+The functional features will allow customers to check available dates and times to schedule appointments, navigate the site via an easy to use nav/footer bar, and make purchases through a third party portal. The functional features will allow an admin to check and approve appointments for clients. 
 
 
 #### Target audience
 
-The target audience is males living in the Gold Coast metro area who are looking for an occaional classic, modern, or specialty styled haircut. 
+The target audience is males living in the Gold Coast metro-area who are looking for an occaional classic, modern, or specialty styled haircut. 
 
 #### Tech stack
 
@@ -24,7 +25,7 @@ The MERN tech stack will be incorporated into this project, the four open source
 
 ## R2	Dataflow Diagram	
 
-
+![Dataflow Diagram](docs/Dataflow_Diagram_Raw_Barbershop.png)
 
 ## R3	Application Architecture Diagram	
 
@@ -63,8 +64,11 @@ As the Owner,
 
 > I want capabilities to view an admin page from which I can view all appointments and confirm new ones, so I can efficiently schedule.
 
+(Added after conversation with client) 
 
-XXXXXXXXX ***Add adjustments after conversation with Taylor*** XXXXXXXXXXXXX
+> I want capabilities to view an admin page from which I can create, edit, and delete pictures to a gallery to give patrons haircut examples. 
+
+> I want capabilities to view an admin page from which I can create, update, and remove products from my store to increase sales of my merchandise. 
 
 ## R5	Wireframes for multiple standard screen sizes, created using industry standard software	
 
@@ -77,6 +81,9 @@ XXXXXXXXX ***Add adjustments after conversation with Taylor*** XXXXXXXXXXXXX
 
 ![Trello Board](docs/Trello_Board_MERN_Project_2.png)
 *14/1/20*
+
+![Trello Board](docs/Trello_Board_MERN_Project_3.png)
+*15/1/20*
 
 ## R7 Other
 

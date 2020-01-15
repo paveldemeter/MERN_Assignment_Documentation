@@ -25,7 +25,7 @@ The MERN tech stack will be incorporated into this project, the four open source
 
 ## R2	Dataflow Diagram	
 
-![Dataflow Diagram](docs/Dataflow_Diagram_Raw_Barbershop.png)
+![Dataflow Diagram](docs/Dataflow_Diagram_MERN.png)
 
 ## R3	Application Architecture Diagram	
 

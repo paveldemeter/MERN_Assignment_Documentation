@@ -74,7 +74,7 @@ As the Owner,
 
 ### Initial wireframes
 
-These are the initial wireframes that were designed loosely based on client descriptions.
+These are the initial wireframes that were designed loosely based on client descriptions. The original design was to be simple and sleek, with a dark palette and minimal style.
 
 ![home draft](docs/wireframes/homedraft.PNG)
 
@@ -82,7 +82,7 @@ These are the initial wireframes that were designed loosely based on client desc
 
 ![location draft](docs/wireframes/locationdraft.PNG)
 
-After a meeting with the client and receiving feedback on these designs, the wireframes were then revised and redesigned based on client requests.
+After a meeting with the client and receiving feedback on these designs, the wireframes were then revised and redesigned based on client requests. He specified that he would like to have a lighter theme and a cleaner look.
 
 ![home alt](docs/wireframes/homealternatelogo.PNG)
 

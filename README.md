@@ -1,7 +1,7 @@
 # DAP_MERN_ASSIGNMENT_DOCUMENTATION
 
 
-## R1 Description of your website, including:
+## Description of your website, including:
 
 ### Purpose
 
@@ -23,15 +23,17 @@ The target audience is males living in the Gold Coast metro-area who are looking
 The MERN tech stack will be incorporated into this project, the four open sourced components being MongoDB, Express, React, and Node.js. The noSQL database, MongoDB is utilized in the MERN stack. The backend server utilizes Node.js, Express, and mongoose. The front end utilizes React. 
 
 
-## R2	Dataflow Diagram	
+## Dataflow Diagram	
 
 ![Dataflow Diagram](docs/Dataflow_Diagram_MERN.png)
 
-## R3	Application Architecture Diagram	
+## Application Architecture Diagram	
+
+## Site Map Diagram
 
 ![App Architecture](docs/App_Architecture_MERN_Project.png)
 
-## R4	User Stories	
+## User Stories	
 
 As Mike,
 > I want to be able to view the hours of this business, so I know when the business is open
@@ -60,21 +62,27 @@ As Kevin,
 As Nathaniel,
 > I want to be able to request more information from the business leaving my email and contact info, so I can learn more about the business.
 
-As the Owner,
+As the owner,
 
 > I want capabilities to view an admin page from which I can view all appointments and confirm new ones, so I can efficiently schedule.
 
-(Added after conversation with client) 
+Initial user stories formed based on an introductory call and email with the client. Formal client business call, client was happy with user stories and discussed functionality of the owner/admins for the site. Added owner user stories: 
+
+As the owner, 
 
 > I want capabilities to view an admin page from which I can create, edit, and delete pictures to a gallery to give patrons haircut examples. 
 
 > I want capabilities to view an admin page from which I can create, update, and remove products from my store to increase sales of my merchandise. 
 
-## R5	Wireframes for multiple standard screen sizes, created using industry standard software	
+> I want the capacity to create/send directed emails/texts to my barbers os that they can be notified of changes to the business and their schedule. 
+
+## Wireframes for multiple standard screen sizes, created using industry standard software	
 
 
 
-## R6	Screenshots of your Trello board throughout the duration of the project	
+## Screenshots of your Trello board throughout the duration of the project	
+
+The team discussed what project management method would be the most effective 
 
 ![Trello Board](docs/Trello_Board_MERN_Project.png)
 *13/1/20*
@@ -85,7 +93,7 @@ As the Owner,
 ![Trello Board](docs/Trello_Board_MERN_Project_3.png)
 *15/1/20*
 
-## R7 Other
+## Other
 
 [Resources](https://docs.google.com/document/d/1qCIVq4t38VcJ9CifgAuvjDxCgSFbA2Dvnt6x0-GKwyY/edit)
 

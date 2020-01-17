@@ -79,6 +79,53 @@ As the owner,
 ## Wireframes for multiple standard screen sizes, created using industry standard software	
 
 
+### Initial wireframes
+
+These are the initial wireframes that were designed loosely based on client descriptions. The original design was to be simple and sleek, with a dark palette and minimal style.
+
+![home draft](docs/wireframes/homedraft.PNG)
+
+![about draft](docs/wireframes/aboutdraft.PNG)
+
+![location draft](docs/wireframes/locationdraft.PNG)
+
+After a meeting with the client and receiving feedback on these designs, the wireframes were then revised and redesigned based on client requests. He specified that he would like to have a lighter theme and a cleaner look.
+
+![home alt](docs/wireframes/homealternatelogo.PNG)
+
+This was the original page but was requested to have the logo colour changed to the following.
+
+![home](docs/wireframes/home.PNG)
+
+![home mobile](docs/wireframes/homemobile.PNG)
+
+The client also requested that a burger menu be implemented so that the user may be able to navigate throughout the website freely.
+
+![burger](docs/wireframes/burgermenu.PNG)
+
+![about](docs/wireframes/about.PNG)
+
+![about mobile](docs/wireframes/aboutmobile.PNG)
+
+![barbers](docs/wireframes/barbers.PNG)
+
+![barbers mobile](docs/wireframes/barbersmobile.PNG)
+
+![contact](docs/wireframes/contact.PNG)
+
+![contact mobile](docs/wireframes/contactmobile.PNG)
+
+![gallery](docs/wireframes/gallery.PNG)
+
+![gallery mobile](docs/wireframes/gallerymobile.PNG)
+
+![location](docs/wireframes/location.PNG)
+
+![location mobile](docs/wireframes/locationmobile.PNG)
+
+![services](docs/wireframes/services.PNG)
+
+![services](docs/wireframes/servicesmobile.PNG)
 
 ## Screenshots of your Trello board throughout the duration of the project	
 

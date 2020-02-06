@@ -177,6 +177,9 @@ The team discussed what project management method would be the most effective
 ![Trello Board](docs/Trello_Board_MERN_Project_3.png)
 *15/1/20*
 
+![Trello Board](docs/Trello_Board_MERN_Project_3.png)
+*15/1/20*
+
 ## Other
 
 [Resources](https://docs.google.com/document/d/1qCIVq4t38VcJ9CifgAuvjDxCgSFbA2Dvnt6x0-GKwyY/edit)

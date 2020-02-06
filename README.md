@@ -169,16 +169,27 @@ The client also requested that a burger menu be implemented so that the user may
 The team discussed what project management method would be the most effective 
 
 ![Trello Board](docs/Trello_Board_MERN_Project.png)
-*13/1/20*
+
 
 ![Trello Board](docs/Trello_Board_MERN_Project_2.png)
-*14/1/20*
+
 
 ![Trello Board](docs/Trello_Board_MERN_Project_3.png)
-*15/1/20*
+
 
 ![Trello Board](docs/Trello_Board_MERN_Project_3.png)
-*15/1/20*
+
+![Trello Board](docs/screenshot1.jpg)
+
+![Trello Board](docs/screenshot2.jpg)
+
+![Trello Board](docs/screenshot3.jpg)
+
+![Trello Board](docs/screenshot4.jpg)
+
+![Trello Board](docs/screenshot5.jpg)
+
+![Trello Board](docs/screenshot6.jpg)
 
 ## Other
 

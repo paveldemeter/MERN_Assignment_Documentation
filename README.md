@@ -198,7 +198,7 @@ The team discussed what project management method would be the most effective
 
 ## Client User Tests
 
-![client_test](docs/UserTesting/14.1.19_reach_out)
+![client_test](docs/UserTesting/14.1.19_reach_out.png)
 
 ![client_test](docs/UserTesting/14.1.19_Offer.png)
 

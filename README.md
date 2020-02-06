@@ -198,11 +198,9 @@ The team discussed what project management method would be the most effective
 
 ## Client User Tests
 
-![client_test](docs/UserTesting/14.1.19  _reach_out.png)
+![client_test](docs/UserTesting/14.1.19_reach_out)
 
-![client_test](docs/UserTesting/.png)
-
-![client_test](docs/UserTesting/.png)
+![client_test](docs/UserTesting/14.1.19_Offer.png)
 
 ![client_test](docs/UserTesting/22.1.20_DAP.png)
 
@@ -217,6 +215,10 @@ The team discussed what project management method would be the most effective
 ![client_test](docs/UserTesting/28.01.20_Taylor.png)
 
 ![client_test](docs/UserTesting/31.1.20_Taylor.png)
+
+![client_test](docs/UserTesting/5.2.20_Taylor.png)
+
+
 
 
 

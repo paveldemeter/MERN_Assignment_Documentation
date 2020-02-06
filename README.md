@@ -191,6 +191,12 @@ The team discussed what project management method would be the most effective
 
 ![Trello Board](docs/screenshot6.jpg)
 
+
+## User [Sara Demeter]
+![Trello Board](docs/user_sara.png)
+
+
+
 ## Other
 
 [Resources](https://docs.google.com/document/d/1qCIVq4t38VcJ9CifgAuvjDxCgSFbA2Dvnt6x0-GKwyY/edit)
